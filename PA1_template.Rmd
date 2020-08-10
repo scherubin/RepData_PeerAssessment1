@@ -1,13 +1,13 @@
 ---
 title: 'Peer-graded Assignment: Course Project 1'
 output:
-  html_document:
-    df_print: paged
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r}
 library(knitr)
-opts_chunk$set(echo= FALSE)
+opts_chunk$set(echo= FALSE) 
 ```
 
 
